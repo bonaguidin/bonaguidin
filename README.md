@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Noah Bonaguidi (Extra points if you can pronounce my last name💯)
-- 👀 I’m passionate about Customer Experience and Automation
-- 🌱 I'm always looking to grow. 
+- 🌱 Operations leader applying automation and AI to business workflows. 
 - 📫 How to reach me:
 -     bonaguidin@gmail.com
 -     https://www.linkedin.com/in/noahbonaguidi/ 
