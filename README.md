@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Noah B. (Extra points if you can pronounce my last name💯)
-- 👀 I’m interested in AI and Customer Experience
-- 🌱 I’m currently learning Data Analysis and Python (with a touch of SQL)
-- 💞️ I’m looking to collaborate on AI projects that introduce new ways to interact with the public
+- 👋 Hi, I’m Noah Bonaguidi (Extra points if you can pronounce my last name💯)
+- 👀 I’m passionate about Customer Experience and Automation
+- 🌱 I'm always looking to grow. 
 - 📫 How to reach me:
 -     bonaguidin@gmail.com
 -     https://www.linkedin.com/in/noahbonaguidi/ 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a professional sign spinner ⬅️🔄➡️! 
 
 <!---
