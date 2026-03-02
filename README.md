@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noah Bonaguidi (Extra points if you can pronounce my last name💯)
+- 👋 Hi, I’m Noah Bonaguidi. 
 - 🌱 Operations leader applying automation and AI to business workflows. 
 - 📫 How to reach me:
 -     bonaguidin@gmail.com
